@@ -1,15 +1,15 @@
-### Hello Stalker 
+# Hello! ✌🏼
 
-I'm Henrique, 24 yeard old and working with iOS since 2018. Currently working to tech.fit
+I'm Henrique, 24 yeard old and working with iOS since 2018. Currently working to tech.fit 👨🏻‍💻
+
 Experience using GIT (BitBucket, Gitlab, Github) as source code management.
 Knowledge in web services integrations (RESTful).
 Always using agile methodologies to manage projects, mainly with SCRUM.
 
+### I started learning Javascript with React-Native and Node.js, both using redux, but i'm focused on swift 🙂
 
-## Knowledges on iOS frameworks:
+## Knowledges on iOS frameworks: 
 - UIKit, Foundation, CoreData, CoreLocation, Alamofire, Moya, AVFoundation, OneSignal, HealthKit, Kingfisher, URLNavigator, NotificationCenter, FirebaseCore.
-
-# I started learning Javascript with React-Native and Node.js, both using redux, but i'm focused on swift :)
 
 <!--
 **henriqueaugusto9/henriqueaugusto9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
