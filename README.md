@@ -1,6 +1,6 @@
 # Hello! ✌🏼
 
-I'm Henrique, 24 yeard old and working with iOS since 2018. Currently working at tech.fit 👨🏻‍💻
+I'm Henrique, 24 years old and working with iOS since 2018. Currently working at tech.fit 👨🏻‍💻
 
 Experience using GIT (BitBucket, Gitlab, Github) as source code management.
 Knowledge in web services integrations (RESTful).
